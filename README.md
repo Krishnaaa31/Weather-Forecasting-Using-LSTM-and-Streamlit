@@ -75,15 +75,6 @@ A deep learning-based web app that predicts the next 3 days’ temperatures for 
 * OpenWeatherMap API is used to fetch real-time temperature data.
 * Visit [https://openweathermap.org/api](https://openweathermap.org/api) to get your free API key.
 
----
-
-## 📸 Demo (Optional)
-
-Add a screenshot or GIF here if you'd like:
-
-```
-![App Screenshot](demo.png)
-```
 
 ---
 
